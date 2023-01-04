@@ -45,11 +45,11 @@
     "eslint-config-crowdstrike-node": "^3.0.0",
     "eslint-plugin-json-files": "2.1.0",
     "eslint-plugin-node": "^11.0.0",
-    "remark-cli": "^9.0.0",
+    "remark-cli": "^11.0.0",
     "renovate-config-standard": "^2.0.0",
     "standard-version": "^9.0.0"
   },
   "peerDependencies": {
-    "remark-cli": "9"
+    "remark-cli": "11"
   }
 }
