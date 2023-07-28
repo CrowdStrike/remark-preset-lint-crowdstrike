@@ -29,7 +29,7 @@
   },
   "homepage": "https://github.com/CrowdStrike/remark-preset-lint-crowdstrike#readme",
   "engines": {
-    "node": ">=10.12"
+    "node": ">=16.13"
   },
   "dependencies": {
     "remark-lint-heading-whitespace": "^1.0.0",
