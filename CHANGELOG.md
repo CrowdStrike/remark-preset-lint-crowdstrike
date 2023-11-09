@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [4.0.0](https://github.com/CrowdStrike/remark-preset-lint-crowdstrike/compare/v3.0.0...v4.0.0) (2023-11-09)
+
+
+### Bug Fixes
+
+* **deps:** update dependency remark-preset-lint-consistent to v5 ([9a46a6b](https://github.com/CrowdStrike/remark-preset-lint-crowdstrike/commit/9a46a6b44cc67cb6567d3c09ef3f0d9b36d8717c))
+* **deps:** update dependency remark-preset-lint-recommended to v6 ([c9ee0f9](https://github.com/CrowdStrike/remark-preset-lint-crowdstrike/commit/c9ee0f91d14f49e341fd046abfa7df8b8fdcefde))
+* switch to string lookup ([d2bf419](https://github.com/CrowdStrike/remark-preset-lint-crowdstrike/commit/d2bf4192180adde2839e6b76364ffe5779d94685))
+* switch to string syntax ([95babaf](https://github.com/CrowdStrike/remark-preset-lint-crowdstrike/commit/95babafabcf692cdb7769d18ecc80fc38dc80179))
+* **deps:** update dependency remark-validate-links to v13 ([9d41ad4](https://github.com/CrowdStrike/remark-preset-lint-crowdstrike/commit/9d41ad47acdae3507e3ed52463264a1cb1529949))
+
 ## [3.0.0](https://github.com/CrowdStrike/remark-preset-lint-crowdstrike/compare/v2.0.0...v3.0.0) (2023-07-28)
 
 
