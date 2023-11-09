@@ -10,6 +10,6 @@ module.exports.plugins = [
   // require('remark-lint-no-empty-sections'),
   require('remark-lint-heading-whitespace'),
   require('remark-lint-no-url-trailing-slash'),
-  require('remark-validate-links'),
+  'remark-validate-links',
   // require('lint-match-punctuation'), // doesn't work
 ];
